@@ -78,7 +78,7 @@ const Footer = () => {
                 <div className="container pt--0 pb--0">
                     <div className="row">
                         <div className="col-md-7 col-lg-6">
-                            <p className="copyright">© 2021 Shome. Made with <i className="fa fa-heart"></i> by Balaji
+                            <p className="copyright">© 2021 Shome. Made with <i className="fa fa-heart"></i> by Ajay
                                 {/* <Link target="_blank" pathname="https://themeforest.net/user/codecarnival/portfolio">Codecarnival.</Link> */}
                             </p>
                         </div>
